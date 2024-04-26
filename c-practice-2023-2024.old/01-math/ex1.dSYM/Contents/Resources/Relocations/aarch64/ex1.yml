@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/cm/Desktop/UniYear1/C_C++_practice/c-practice-2023-2024/01-math/ex1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _calculateSum, symObjAddr: 0x0, symBinAddr: 0x100003D64, symSize: 0x20 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _calculateSum, symObjAddr: 0x0, symBinAddr: 0x100003D64, symSize: 0x20 }
+  - { offsetInCU: 0x77, offset: 0x77, size: 0x8, addend: 0x0, symName: _runTests, symObjAddr: 0x20, symBinAddr: 0x100003D84, symSize: 0x168 }
+  - { offsetInCU: 0xC5, offset: 0xC5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x188, symBinAddr: 0x100003EEC, symSize: 0x38 }
+...
